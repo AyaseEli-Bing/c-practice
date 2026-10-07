@@ -1,7 +1,6 @@
 //
 // C语言程序实践（4）：while、do-while、for 循环
 // 张三+25080808
-// Created by 冰 on 2026/9/30.
 //
 
 #include <stdio.h>
