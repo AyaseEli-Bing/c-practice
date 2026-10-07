@@ -1,3 +1,5 @@
+#include "stdafx.h"
+
 /*
  * C语言程序实践（4）：while、do-while、for 循环
  * 张三+25080808
